@@ -65,9 +65,6 @@ YYYYMMDD_ProjectAbbreviation_Description_Version.extension
 6. The repository owner will **review** your pull request and merge it if approved
 
 ---
-## Contact
-
-For questions about this repository, please contact the repository owner via GitHub Issues.
 
 
 
